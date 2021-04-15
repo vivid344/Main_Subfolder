@@ -3,7 +3,7 @@
 
 今回の分割では`git filter-branch`というcommandを使用してサブフォルダを新規リポジトリに分割します。
 
-（参考：https://docs.github.com/ja/github/getting-started-with-github/splitting-a-subfolder-out-into-a-new-repository）
+（参考：https://docs.github.com/ja/github/getting-started-with-github/splitting-a-subfolder-out-into-a-new-repository ）
 
 このリポジトリに存在するfolderを新規リポジトリとして分割を行います。
 
